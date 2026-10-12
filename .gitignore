@@ -1,0 +1,12 @@
+# Python / Virtual Environments
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Sensitive Config & Environment
+.env
+
+# Local Database and Data storage
+data/
+*.sqlite3
